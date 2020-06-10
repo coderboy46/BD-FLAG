@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.circle {
+  background: red none repeat scroll 0 0;
+  border: 0px solid #333;
+  border-radius: 100px;
+  height: 150px;
+  margin: 0 0 0 75px;
+  width: 150px;
+}
+.background{
+    width: 300px;
+    height: 200px;
+    background: #005b00;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.clear{overflow: hidden;}
+.space{
+padding-top: 25px;
+}
